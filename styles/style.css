@@ -1,0 +1,145 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: work sans;
+}
+/* bannar section design start  */
+.bannar-section {
+  background-image: url("../images/banner/banner1.png");
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  margin: 0 auto;
+}
+.bannar-heading {
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  text-align: right;
+  color: #151414;
+  margin-bottom: 24px;
+}
+.bannar {
+  width: 80%;
+  margin: 0 auto;
+  text-align: right;
+  padding-top: 76px;
+}
+.bannar-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: right;
+  color: #444343;
+  margin-bottom: 32px;
+}
+.primary-btn {
+  background-color: #f24822;
+  width: 160px;
+  height: 64px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+}
+/* my failure design start  */
+.my-failures-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 87px;
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  margin-top: 120px;
+}
+.aouthor-image {
+  width: 500px;
+}
+.my-failure-heading {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+.my-failure-description {
+  line-height: 26px;
+  color: #444343;
+  margin-bottom: 16px;
+}
+ul {
+  list-style-image: url("../images/icons/checklist.png");
+}
+/* my failure section design end  */
+
+/* my plan , skills section start  */
+.my-plan-section {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.my-plan-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.plan-contains {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.plan-icon img {
+  width: 65px;
+  margin-bottom: 15px;
+}
+.skill-heading {
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  color: #151414;
+  margin-bottom: 16px;
+}
+.plans {
+  text-align: center;
+}
+.plan-description {
+  font-weight: 500;
+  font-size: 25px;
+  text-align: center;
+  color: #737272;
+}
+
+.linear-image-container {
+  height: 300px;
+  width: 80%;
+  margin: 0 auto;
+  background-image: linear-gradient(60deg, rgb(242, 6, 6), transparent),
+    url("../images/watch.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 130px;
+}
+.wach-bannar-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #ffffff;
+  padding-top: 59px;
+  padding-left: 64px;
+}
+.call-now-btn {
+  background-color: white;
+  width: 160px;
+  height: 64px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #fe0808;
+  border: none;
+  border-radius: 5px;
+  margin-top: 24px;
+  margin-left: 64px;
+}
