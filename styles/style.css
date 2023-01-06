@@ -196,7 +196,7 @@ ul {
 /* my goal section design end */
 /* footer section design start */
 .footer-section {
-  background:black;
+  background: black;
   width: 100%;
   height: 80vh;
 }
@@ -214,43 +214,42 @@ ul {
   color: #f8f8f8;
   margin-bottom: 16px;
 }
-.future-descripion{
-
-line-height: 26px;
-color: #FFFFFF;
-margin-bottom: 24px;
+.future-descripion {
+  line-height: 26px;
+  color: #ffffff;
+  margin-bottom: 24px;
 }
-.email, .phn-number{
-    color: #FFFFFF;
+.email,
+.phn-number {
+  color: #ffffff;
 }
-.phn-number{
-    margin-bottom: 32px;
-    margin-top: 16px;
+.phn-number {
+  margin-bottom: 32px;
+  margin-top: 16px;
 }
-.social-icon > img{
-    margin-right: 10px;
+.social-icon > img {
+  margin-right: 10px;
 }
-.subscribe{
-    font-weight: 600;
-font-size: 25px;
-color: #FFFFFF;
-margin-bottom: 30px;
+.subscribe {
+  font-weight: 600;
+  font-size: 25px;
+  color: #ffffff;
+  margin-bottom: 30px;
 }
-.footer-right-side{
-    padding-right: 115px;
-    margin-top: -140px;
-  
+.footer-right-side {
+  padding-right: 115px;
+  margin-top: -140px;
 }
-.email{
-    background-color: black;
-    color: white;
-    padding: 20px 35px;
-    border: 1px solid white;
-    border-radius: 5px;
-    border-bottom: 15px;
+.email {
+  background-color: black;
+  color: white;
+  padding: 20px 35px;
+  border: 1px solid white;
+  border-radius: 5px;
+  border-bottom: 15px;
 }
-.subscribe-btn{
-    background-color: white;
+.subscribe-btn {
+  background-color: white;
   width: 140px;
   height: 50px;
   font-weight: 600;
@@ -260,3 +259,4 @@ margin-bottom: 30px;
   border-radius: 5px;
   margin-top: 10px;
 }
+/* design end */
