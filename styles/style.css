@@ -122,6 +122,7 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
   margin-top: 130px;
+  margin-bottom: 130px;
 }
 .wach-bannar-title {
   font-weight: 700;
@@ -142,4 +143,56 @@ ul {
   border-radius: 5px;
   margin-top: 24px;
   margin-left: 64px;
+}
+/* my plan section design end  */
+/* my future goal section design start  */
+.bg-border{
+    background:white ;
+    width: 78%;
+    height: 150px;
+    border-left: rgb(251, 39, 39) solid 30px;
+    border-bottom: rgb(251, 39, 39) solid 30px;
+    margin: 0 auto;
+}
+.goal-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+    margin-bottom: 250px;
+
+}
+
+.future-contant{
+    width: 240px;
+    background: rgb(243, 216, 216);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.see-more-btn{
+    background-color: white;
+    width: 140px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fe0808;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+.future-section{
+    display: flex;
+    gap: 40px;
+  justify-content: center;
+  margin-top: -340px;
+  margin-bottom: 100px;
+}
+.goal-card-title{
+    margin-bottom: 7px;
+}
+.goa-description{
+    color: #737272;
 }
